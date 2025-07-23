@@ -1,0 +1,58 @@
+# User-specific files
+.idea/
+.vscode/
+*.swp
+*.suo
+*.user
+*.userprefs
+*.csproj
+*.unityproj
+*.sln
+*.tmp
+*.bak
+*.pidb
+*.booproj
+.DS_Store
+Thumbs.db
+
+# Unity specific
+[Ll]ibrary/
+[Ll]ogs/
+[Tt]emp/
+[Tt]argets/
+Packages/
+UserSettings/
+Library/
+obj/
+Logs/
+.obj/
+.mono/
+*.pidb
+*.userprefs
+*.meta
+*.cache
+*.json
+*.asset
+
+# Build results
+build/
+Build/
+Builds/
+
+# Asset files
+*.apk
+*.unitypackage
+*.pdb
+*.mdb
+*.sln
+
+# IDE config files
+.vscode/
+.idea/
+
+# JetBrains Rider specific
+.idea/
+
+# User-defined folders
+Assets/Plugins/
+Assets/Editor/
